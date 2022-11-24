@@ -93,7 +93,7 @@ const renderPokemonStats = stats => {
 const renderNotFound = () => {
     pokeNameJs.textContent = 'Pokemon aún no descubierto';
     pokeImgJs.style.background = '#fff';
-    pokeImgJs.setAttribute('src', '../img/siluetaPokemon.png');
+    pokeImgJs.setAttribute('src', 'img/siluetaPokemon.png');
     pokeTypesJs.innerHTML = '';
     pokeAbilityJs.innerHTML = '';
     pokeStatsJs.innerHTML = '';
