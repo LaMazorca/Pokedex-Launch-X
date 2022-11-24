@@ -2,6 +2,7 @@
 Practica de JS de LaunchX
 
 ---
-#Link
+# Link
 Les dejo el link de mi pokedex
+
 [Pokedex](https://lamazorca.github.io/Pokedex-Launch-X/)
